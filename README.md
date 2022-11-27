@@ -1,5 +1,5 @@
 # pizza-hunt
 
-## Deployeed App
+## Deployed App
 
 [Pizza Hunt](https://peaceful-bayou-63351.herokuapp.com/)
